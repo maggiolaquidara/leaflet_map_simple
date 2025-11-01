@@ -6,3 +6,5 @@ A simple Leaflet map template for new users to fork their own copy, edit, and ho
 
 ## Create your own
 See step-by-step tutorial at https://HandsOnDataViz.org, an open-access book by Jack Dougherty and Ilya Ilyankou
+
+You look like a lamp today, baby!
